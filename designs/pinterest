@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T06:07:17.524Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.6.0" etag="cMk4Ki6hqAOmiz1KwFP3" type="github"><diagram id="fK5xnPSV4RABafS9rJUU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-08T02:23:41.083Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.6.0" etag="f-Tj7GFEKWawB-O5knwL" type="github">
+  <diagram id="9Kk6322MMvwdYk1Z5r7v" name="Page-1">
+    <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QLvGoVCZWgUzlOZIwNKo-1" value="Plan:&lt;br&gt;1. General Requirements&lt;br&gt;2. Functional Requirement&amp;nbsp;&lt;br&gt;3. Component Architecture&amp;nbsp;&lt;br&gt;4. Mansory Layout&amp;nbsp;&lt;br&gt;5. Data entities&amp;nbsp;&lt;br&gt;6. Data API&amp;nbsp;&lt;br&gt;7. Data store&amp;nbsp; and layers&amp;nbsp;&lt;br&gt;8. Optimisation&amp;nbsp;&lt;br&gt;9. Accessibility&amp;nbsp;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QLvGoVCZWgUzlOZIwNKo-2" value="General Requirements:&lt;br&gt;1. Pin should be placed on mansory layout&amp;nbsp;&lt;br&gt;2. User can see the full details of pin&lt;br&gt;3. Pin can be a jpeg or gif [No video]&lt;br&gt;4. User can comment on the pin&amp;nbsp;&lt;br&gt;5. User can share the pin" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="30" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QLvGoVCZWgUzlOZIwNKo-3" value="Functional Requirements:&lt;br&gt;1. Mobile, Laptops and Tablet&amp;nbsp;&lt;br&gt;2. Responsive Design&amp;nbsp;&lt;br&gt;3.&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="30" width="180" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
